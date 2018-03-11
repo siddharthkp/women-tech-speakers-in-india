@@ -51,6 +51,15 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Deesha Vora 
+
+- Location: Mumbai
+- Talks about: Android, Entrepreneurship
+- Social: [twitter](https://twitter.com/deesharv) [medium](https://medium.com/@DeeshaRVora) [SlideShare](https://www.slideshare.net/deeshaytrivedi) [Github](https://github.com/xrnd)
+- Consent given to contact: 🔜
+- Preferred contact method: 🔜
+- Organizing WomenWill (With GBGMumbai) for women entrepreneurs.
+
 ### Kritika Maheshwari
 
 - Location: Hyderabad
