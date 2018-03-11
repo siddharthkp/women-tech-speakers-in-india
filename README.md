@@ -30,7 +30,7 @@ Sorted alphabetically by name:
 ### Ankita Goyal
 
 - Location: Hyderabad
-- Talks about: 🔜
+- Talks about: Angular, Redux
 - Social: 🔜
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
