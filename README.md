@@ -35,6 +35,23 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Arwa Lokhandwala
+
+- Location: Mumbai
+- Talks about: React, Redux, Node
+- Social: �[twitter](https://twitter.com/arwa18793) 
+- Consent given to contact: 🔜
+- Preferred contact method: �
+
+### Dipti Gandhi
+
+- Location: Mumbai
+- Talks about: Javascript, React
+- Social: �[twitter](https://twitter.com/MellowDipti) 
+- Consent given to contact: 🔜
+- Preferred contact method: 🔜
+
+
 ### Kritika Maheshwari
 
 - Location: Hyderabad
