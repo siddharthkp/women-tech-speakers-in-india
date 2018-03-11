@@ -1,6 +1,8 @@
 # women-tech-speakers-in-india
   
-A list of women tech speakers and mentors from India. Conference (and meetup) organisers complain of not having enough women speakers in the community, well here's a bunch of them, now you have no excuse.
+A list of women tech speakers from India India. 
+
+Conference (and meetup) organisers complain of not having enough women speakers in the community, well here's a bunch of them, now you have no excuse.
 
 Please add yourself and your peers! Make sure you take their consent before adding their preferred contact method, especially email address.
 
