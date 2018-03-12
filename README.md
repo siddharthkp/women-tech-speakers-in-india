@@ -85,6 +85,14 @@ Sorted alphabetically by name:
 - Preferred contact method: 🔜
 - Misc: Leading the Google Developer Group - WTM.
 
+### Nishtha Gupta
+
+- Location: Bangalore
+- Talks about: Javascript, React, Redux, Flux
+- Social: [twitter](https://twitter.com/niishtha1)
+- Consent given to contact: Yes
+- Preferred contact method: Email / Twitter
+
 ### Pragya Jha
 
 - Location: Bangalore
