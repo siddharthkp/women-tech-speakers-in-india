@@ -23,8 +23,8 @@ Sorted alphabetically by name:
 - Location: Mumbai
 - Talks about: iOS, Swift, AI, Mahchine Learning
 - Social: [twitter](https://twitter.com/akanksharmaa)
-- Consent given to contact: 🔜
-- Preferred contact method: 🔜
+- Consent given to contact: ✅ 
+- Preferred contact method: twitter DM
 
 ### Anbarasi U
 
