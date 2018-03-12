@@ -90,8 +90,8 @@ Sorted alphabetically by name:
 - Location: Bangalore
 - Talks about: Javascript, React, Redux, Flux
 - Social: [twitter](https://twitter.com/niishtha1)
-- Consent given to contact: Yes
-- Preferred contact method: Email / Twitter
+- Consent given to contact: ✅
+- Preferred contact method: Email (niishtha@gmail.com) / [twitter](https://twitter.com/niishtha1)
 
 ### Pragya Jha
 
@@ -123,7 +123,7 @@ Sorted alphabetically by name:
 - Location: Chennai
 - Talks about: Ruby On Rails | Blockchain (Ethereum/Hyperledger) | Elasticsearch | Memcached | Redis | Startups | Leadership
 - Social: [twitter](https://twitter.com/imswaathik)
-- Consent given to contact: Yes
+- Consent given to contact: ✅
 - Preferred contact method: Email ([first-name]@skcript.com)
 - Misc: Co-Founder [Skcript](https://skcript.com), Organizer at [GDG Chennai](https://www.meetup.com/GDGChennai/), [Personal Page](https://swaathi.com)
 
