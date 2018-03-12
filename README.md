@@ -110,4 +110,12 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Mamata Gelanee
+
+- Location: Gujarat
+- Talks about: Android, Design Patterns, Code Refactoring
+- Social: [twitter](https://twitter.com/mamatagelanee)
+- Consent given to contact: 🔜
+- Preferred contact method: 🔜
+
 
