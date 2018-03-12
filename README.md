@@ -73,8 +73,8 @@ Sorted alphabetically by name:
 - Location: Bangalore
 - Talks about: Javascript, React, Redux, Flux
 - Social: [twitter](https://twitter.com/niishtha1)
-- Consent given to contact: 🔜
-- Preferred contact method: 🔜
+- Consent given to contact: Yes
+- Preferred contact method: Email / Twitter
 
 ### Pragya Jha
 
