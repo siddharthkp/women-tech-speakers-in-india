@@ -18,6 +18,14 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Akanksha Sharma
+
+- Location: Mumbai
+- Talks about: iOS, Swift, AI, Mahchine Learning
+- Social: [twitter](https://twitter.com/akanksharmaa)
+- Consent given to contact: 🔜
+- Preferred contact method: 🔜
+
 ### Anbarasi U
 
 - Location: Bangalore
