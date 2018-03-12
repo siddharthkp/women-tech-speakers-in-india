@@ -110,6 +110,15 @@ Sorted alphabetically by name:
 - Preferred contact method: 🔜
 - Misc: organizer of WomenWhoCode Chennai Meetups, past talks: https://tiny.cc/ramya_talks
 
+### Swaathi Kakarla
+
+- Location: Chennai
+- Talks about: Ruby On Rails | Blockchain (Ethereum/Hyperledger) | Elasticsearch | Memcached | Redis | Startups | Leadership
+- Social: [twitter](https://twitter.com/imswaathik)
+- Consent given to contact: Yes
+- Preferred contact method: Email (<first-name>@skcript.com)
+- Misc: Co-Founder [Skcript](https://skcript.com), Organizer at [GDG Chennai](https://www.meetup.com/GDGChennai/), [Personal Page](https://swaathi.com)
+
 ### Varsha Saha
 
 - Location: Bangalore
