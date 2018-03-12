@@ -51,6 +51,14 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Divya Shivaram
+
+- Location: Chennai
+- Talks about: Machine Learning, Computer Vision
+- Social: [twitter](https://twitter.com/Yayydiv) 
+- Consent given to contact: 🔜
+- Preferred contact method: 🔜
+
 ### Deesha Vora 
 
 - Location: Mumbai
