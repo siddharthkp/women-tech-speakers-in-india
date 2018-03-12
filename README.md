@@ -110,4 +110,12 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Tejshree Yeole
+
+- Location: Mumbai
+- Talks about: Android
+- Social: https://twitter.com/tejshree_yeole
+- Consent given to contact: 🔜
+- Preferred contact method: 🔜
+
 
