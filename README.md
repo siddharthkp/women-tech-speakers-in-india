@@ -150,3 +150,12 @@ Sorted alphabetically by name:
 - Social: [twitter](https://twitter.com/ragdroid)
 - Consent given to contact: ✅
 - Preferred contact method: Twitter DM
+
+### Shagufta Gurmukhdas
+
+- Location: Pune
+- Talks about: WebVR, Deep Learning
+- Social: [twitter](https://twitter.com/shaguftamethwan)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM
+
