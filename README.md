@@ -53,11 +53,11 @@ Sorted alphabetically by name:
 
 ### Divya Shivaram
 
-- Location: Chennai
+- Location: Bangalore
 - Talks about: Machine Learning, Computer Vision
 - Social: [twitter](https://twitter.com/Yayydiv) 
-- Consent given to contact: 🔜
-- Preferred contact method: 🔜
+- Consent given to contact: ✅
+- Preferred contact method: twitter
 
 ### Deesha Vora 
 
