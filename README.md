@@ -115,5 +115,5 @@ Sorted alphabetically by name:
 - Location: New Delhi
 - Talks about: Android, Dagger, Mobile Architecture Patterns
 - Social: [twitter](https://twitter.com/ragdroid)
-- Consent given to contact: 🔜
-- Preferred contact method: 🔜
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM
