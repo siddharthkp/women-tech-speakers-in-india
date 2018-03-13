@@ -85,6 +85,14 @@ Sorted alphabetically by name:
 - Preferred contact method: 🔜
 - Organizing WomenWill (With GBGMumbai) for women entrepreneurs.
 
+### Garima Jain
+
+- Location: New Delhi
+- Talks about: Android, Dagger, Mobile Architecture Patterns
+- Social: [twitter](https://twitter.com/ragdroid)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM
+
 ### Kritika Maheshwari
 
 - Location: Hyderabad
@@ -92,6 +100,15 @@ Sorted alphabetically by name:
 - Social: [twitter](https://twitter.com/mozkri)
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
+
+### Mamata Gelanee
+
+- Location: Gujarat
+- Talks about: Android, Design Patterns, Code Refactoring
+- Social: [twitter](https://twitter.com/mamatagelanee)
+- Consent given to contact: ✅
+- Preferred contact method: Email- gelaneem@gmail.com
+- Misc: Organizer, WTM Baroda & Associate Senior Engineer, MasterCard
 
 ### Manjula Dube
 
@@ -135,6 +152,14 @@ Sorted alphabetically by name:
 - Preferred contact method: 🔜
 - Misc: organizer of WomenWhoCode Chennai Meetups, past talks: https://tiny.cc/ramya_talks
 
+### Shagufta Gurmukhdas
+
+- Location: Pune
+- Talks about: WebVR, Deep Learning
+- Social: [twitter](https://twitter.com/shaguftamethwan)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM
+
 ### Swaathi Kakarla
 
 - Location: Chennai
@@ -151,31 +176,3 @@ Sorted alphabetically by name:
 - Social: [twitter](https://twitter.com/saha_varsha)
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
-
-
-### Mamata Gelanee
-
-- Location: Gujarat
-- Talks about: Android, Design Patterns, Code Refactoring
-- Social: [twitter](https://twitter.com/mamatagelanee)
-- Consent given to contact: ✅
-- Preferred contact method: Email- gelaneem@gmail.com
-- Misc: Organizer, WTM Baroda & Associate Senior Engineer, MasterCard
-
-### Garima Jain
-
-- Location: New Delhi
-- Talks about: Android, Dagger, Mobile Architecture Patterns
-- Social: [twitter](https://twitter.com/ragdroid)
-- Consent given to contact: ✅
-- Preferred contact method: Twitter DM
-
-### Shagufta Gurmukhdas
-
-- Location: Pune
-- Talks about: WebVR, Deep Learning
-- Social: [twitter](https://twitter.com/shaguftamethwan)
-- Consent given to contact: ✅
-- Preferred contact method: Twitter DM
-
-
