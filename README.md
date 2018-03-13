@@ -135,4 +135,10 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Garima Jain
 
+- Location: New Delhi
+- Talks about: Android, Dagger, Mobile Architecture Patterns
+- Social: [twitter](https://twitter.com/ragdroid)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM
