@@ -18,6 +18,14 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Akanksha Sharma
+
+- Location: Mumbai
+- Talks about: iOS, Swift, AI, Mahchine Learning
+- Social: [twitter](https://twitter.com/akanksharmaa)
+- Consent given to contact: ✅ 
+- Preferred contact method: twitter DM
+
 ### Anbarasi U
 
 - Location: Bangalore
@@ -43,6 +51,15 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: �
 
+### Deepa Naik
+
+- Location: Mumbai
+- Talks about: Artificial Intelligence
+- Social: [linkedin](https://in.linkedin.com/in/deepa-naik) [twitter](https://twitter.com/@dynaik)
+- Consent given to contact: ✅
+- Preferred contact method: Linkedin / Twitter DM
+
+
 ### Dipti Gandhi
 
 - Location: Mumbai
@@ -50,6 +67,14 @@ Sorted alphabetically by name:
 - Social: [twitter](https://twitter.com/MellowDipti) 
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
+
+### Divya Shivaram
+
+- Location: Bangalore
+- Talks about: Machine Learning, Computer Vision
+- Social: [twitter](https://twitter.com/Yayydiv) 
+- Consent given to contact: ✅
+- Preferred contact method: twitter
 
 ### Deesha Vora 
 
@@ -77,6 +102,14 @@ Sorted alphabetically by name:
 - Preferred contact method: 🔜
 - Misc: Leading the Google Developer Group - WTM.
 
+### Nishtha Gupta
+
+- Location: Bangalore
+- Talks about: Javascript, React, Redux, Flux
+- Social: [twitter](https://twitter.com/niishtha1)
+- Consent given to contact: ✅
+- Preferred contact method: Email (niishtha@gmail.com) / [twitter](https://twitter.com/niishtha1)
+
 ### Pragya Jha
 
 - Location: Bangalore
@@ -102,6 +135,15 @@ Sorted alphabetically by name:
 - Preferred contact method: 🔜
 - Misc: organizer of WomenWhoCode Chennai Meetups, past talks: https://tiny.cc/ramya_talks
 
+### Swaathi Kakarla
+
+- Location: Chennai
+- Talks about: Ruby On Rails | Blockchain (Ethereum/Hyperledger) | Elasticsearch | Memcached | Redis | Startups | Leadership
+- Social: [twitter](https://twitter.com/imswaathik)
+- Consent given to contact: ✅
+- Preferred contact method: Email ([first-name]@skcript.com)
+- Misc: Co-Founder [Skcript](https://skcript.com), Organizer at [GDG Chennai](https://www.meetup.com/GDGChennai/), [Personal Page](https://swaathi.com)
+
 ### Varsha Saha
 
 - Location: Bangalore
@@ -109,6 +151,7 @@ Sorted alphabetically by name:
 - Social: [twitter](https://twitter.com/saha_varsha)
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
+
 
 ### Mamata Gelanee
 
@@ -118,5 +161,21 @@ Sorted alphabetically by name:
 - Consent given to contact: ✅
 - Preferred contact method: Email- gelaneem@gmail.com
 - Misc: Organizer, WTM Baroda & Associate Senior Engineer, MasterCard
+
+### Garima Jain
+
+- Location: New Delhi
+- Talks about: Android, Dagger, Mobile Architecture Patterns
+- Social: [twitter](https://twitter.com/ragdroid)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM
+
+### Shagufta Gurmukhdas
+
+- Location: Pune
+- Talks about: WebVR, Deep Learning
+- Social: [twitter](https://twitter.com/shaguftamethwan)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM
 
 
