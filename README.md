@@ -160,6 +160,14 @@ Sorted alphabetically by name:
 - Consent given to contact: ✅
 - Preferred contact method: Twitter DM
 
+### Srushtika Neelakantam
+
+- Location: Bangalore/Berlin
+- Talks about: WebVR, AFrameVr, Realtime Web, TypeScript
+- Social: [twitter](https://twitter.com/Srushtika)|[youtube](https://www.youtube.com/playlist?list=PLZWI9MjJG-V_Y52VWLPZE1KtUTykyGTpJ)|[slides](https://speakerdeck.com/srushtika)|[medium](https://medium.com/@n.srushtika)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM
+
 ### Swaathi Kakarla
 
 - Location: Chennai
