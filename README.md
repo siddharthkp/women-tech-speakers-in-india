@@ -152,6 +152,16 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+
+### Mamata Gelanee
+
+- Location: Gujarat
+- Talks about: Android, Design Patterns, Code Refactoring
+- Social: [twitter](https://twitter.com/mamatagelanee)
+- Consent given to contact: ✅
+- Preferred contact method: Email- gelaneem@gmail.com
+- Misc: Organizer, WTM Baroda & Associate Senior Engineer, MasterCard
+
 ### Garima Jain
 
 - Location: New Delhi
@@ -167,4 +177,5 @@ Sorted alphabetically by name:
 - Social: [twitter](https://twitter.com/shaguftamethwan)
 - Consent given to contact: ✅
 - Preferred contact method: Twitter DM
+
 
