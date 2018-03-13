@@ -51,6 +51,15 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: �
 
+### Deepa Naik
+
+- Location: Mumbai
+- Talks about: Artificial Intelligence
+- Social: [linkedin](https://in.linkedin.com/in/deepa-naik) [twitter](https://twitter.com/@dynaik)
+- Consent given to contact: ✅
+- Preferred contact method: Linkedin / Twitter DM
+
+
 ### Dipti Gandhi
 
 - Location: Mumbai
