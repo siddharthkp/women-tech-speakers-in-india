@@ -115,7 +115,7 @@ Sorted alphabetically by name:
 - Location: Mumbai
 - Talks about: Android
 - Social: https://twitter.com/tejshree_yeole
-- Consent given to contact: 🔜
-- Preferred contact method: 🔜
+- Consent given to contact: white_check_mark
+- Preferred contact method: twitter DM
 
 
