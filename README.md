@@ -18,6 +18,14 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Akanksha Sharma
+
+- Location: Mumbai
+- Talks about: iOS, Swift, AI, Mahchine Learning
+- Social: [twitter](https://twitter.com/akanksharmaa)
+- Consent given to contact: ✅ 
+- Preferred contact method: twitter DM
+
 ### Anbarasi U
 
 - Location: Bangalore
@@ -43,6 +51,15 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: �
 
+### Deepa Naik
+
+- Location: Mumbai
+- Talks about: Artificial Intelligence
+- Social: [linkedin](https://in.linkedin.com/in/deepa-naik) [twitter](https://twitter.com/@dynaik)
+- Consent given to contact: ✅
+- Preferred contact method: Linkedin / Twitter DM
+
+
 ### Dipti Gandhi
 
 - Location: Mumbai
@@ -50,6 +67,14 @@ Sorted alphabetically by name:
 - Social: [twitter](https://twitter.com/MellowDipti) 
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
+
+### Divya Shivaram
+
+- Location: Bangalore
+- Talks about: Machine Learning, Computer Vision
+- Social: [twitter](https://twitter.com/Yayydiv) 
+- Consent given to contact: ✅
+- Preferred contact method: twitter
 
 ### Deesha Vora 
 
@@ -60,6 +85,14 @@ Sorted alphabetically by name:
 - Preferred contact method: 🔜
 - Organizing WomenWill (With GBGMumbai) for women entrepreneurs.
 
+### Garima Jain
+
+- Location: New Delhi
+- Talks about: Android, Dagger, Mobile Architecture Patterns
+- Social: [twitter](https://twitter.com/ragdroid)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM
+
 ### Kritika Maheshwari
 
 - Location: Hyderabad
@@ -67,6 +100,15 @@ Sorted alphabetically by name:
 - Social: [twitter](https://twitter.com/mozkri)
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
+
+### Mamata Gelanee
+
+- Location: Gujarat
+- Talks about: Android, Design Patterns, Code Refactoring
+- Social: [twitter](https://twitter.com/mamatagelanee)
+- Consent given to contact: ✅
+- Preferred contact method: Email- gelaneem@gmail.com
+- Misc: Organizer, WTM Baroda & Associate Senior Engineer, MasterCard
 
 ### Manjula Dube
 
@@ -76,6 +118,14 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 - Misc: Leading the Google Developer Group - WTM.
+
+### Nishtha Gupta
+
+- Location: Bangalore
+- Talks about: Javascript, React, Redux, Flux
+- Social: [twitter](https://twitter.com/niishtha1)
+- Consent given to contact: ✅
+- Preferred contact method: Email (niishtha@gmail.com) / [twitter](https://twitter.com/niishtha1)
 
 ### Pragya Jha
 
@@ -102,13 +152,31 @@ Sorted alphabetically by name:
 - Preferred contact method: 🔜
 - Misc: organizer of WomenWhoCode Chennai Meetups, past talks: https://tiny.cc/ramya_talks
 
-### Varsha Saha
+### Shagufta Gurmukhdas
 
-- Location: Bangalore
-- Talks about: React, Redux, State management
-- Social: [twitter](https://twitter.com/saha_varsha)
-- Consent given to contact: 🔜
-- Preferred contact method: 🔜
+- Location: Pune
+- Talks about: WebVR, Deep Learning
+- Social: [twitter](https://twitter.com/shaguftamethwan)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM
+
+### Srushtika Neelakantam
+
+- Location: Bangalore/Berlin
+- Talks about: WebVR, AFrameVr, Realtime Web, TypeScript
+- Social: [twitter](https://twitter.com/Srushtika)|[youtube](https://www.youtube.com/playlist?list=PLZWI9MjJG-V_Y52VWLPZE1KtUTykyGTpJ)|[slides](https://speakerdeck.com/srushtika)|[medium](https://medium.com/@n.srushtika)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM
+
+### Swaathi Kakarla
+
+- Location: Chennai
+- Talks about: Ruby On Rails | Blockchain (Ethereum/Hyperledger) | Elasticsearch | Memcached | Redis | Startups | Leadership
+- Social: [twitter](https://twitter.com/imswaathik)
+- Consent given to contact: ✅
+- Preferred contact method: Email ([first-name]@skcript.com)
+- Misc: Co-Founder [Skcript](https://skcript.com), Organizer at [GDG Chennai](https://www.meetup.com/GDGChennai/), [Personal Page](https://swaathi.com)
+
 
 ### Tejshree Yeole
 
@@ -117,5 +185,14 @@ Sorted alphabetically by name:
 - Social: https://twitter.com/tejshree_yeole
 - Consent given to contact: white_check_mark
 - Preferred contact method: twitter DM
+
+### Varsha Saha
+
+- Location: Bangalore
+- Talks about: React, Redux, State management
+- Social: [twitter](https://twitter.com/saha_varsha)
+- Consent given to contact: 🔜
+- Preferred contact method: 🔜
+
 
 
