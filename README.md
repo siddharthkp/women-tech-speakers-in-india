@@ -177,6 +177,15 @@ Sorted alphabetically by name:
 - Preferred contact method: Email ([first-name]@skcript.com)
 - Misc: Co-Founder [Skcript](https://skcript.com), Organizer at [GDG Chennai](https://www.meetup.com/GDGChennai/), [Personal Page](https://swaathi.com)
 
+
+### Tejshree Yeole
+
+- Location: Mumbai
+- Talks about: Android
+- Social: https://twitter.com/tejshree_yeole
+- Consent given to contact: white_check_mark
+- Preferred contact method: twitter DM
+
 ### Varsha Saha
 
 - Location: Bangalore
@@ -184,3 +193,6 @@ Sorted alphabetically by name:
 - Social: [twitter](https://twitter.com/saha_varsha)
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
+
+
+
