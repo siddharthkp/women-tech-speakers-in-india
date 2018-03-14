@@ -119,6 +119,14 @@ Sorted alphabetically by name:
 - Preferred contact method: 🔜
 - Misc: Leading the Google Developer Group - WTM.
 
+### Neha Sharma
+
+- Location: Delhi - NCR
+- Talks about: Javascript, React, Redux, Flux, PWA, Best Practices
+- Social: [twitter](https://twitter.com/hellonehha) [linkedin] (https://www.linkedin.com/in/nehha/)
+- Consent given to contact: ✅
+- Preferred contact method: [twitter](https://twitter.com/hellonehha)
+
 ### Nishtha Gupta
 
 - Location: Bangalore
