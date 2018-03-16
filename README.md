@@ -202,5 +202,12 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Anjana Krishnan
+- Location: Kochi
+- Talks about: Ruby, Rails
+- Social: https://twitter.com/anjanakris123 
+- Consent given to contact: white_check_mark
+- Preferred contact method: twitter DM
+
 
 
