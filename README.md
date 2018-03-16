@@ -101,6 +101,14 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Leena S N
+
+- Location: Bengaluru, India
+- Talks about: Continuous Delivery, Agile
+- Social: [twitter](https://twitter.com/leenasn)
+- Consent given to contact: 🔜
+- Preferred contact method: 🔜
+
 ### Mamata Gelanee
 
 - Location: Gujarat
