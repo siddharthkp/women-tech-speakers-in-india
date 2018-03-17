@@ -223,3 +223,4 @@ Sorted alphabetically by name:
 - Social: http://facebook.com/geethusivakumar
 - Consent given to contact: ✅ 
 - Contact: ge.geethuss@gmail.com
+- Preferred contact method: Email
