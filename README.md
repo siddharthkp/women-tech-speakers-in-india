@@ -226,7 +226,7 @@ Sorted alphabetically by name:
 
 ### Nithya Duraisamy
 - Location: Chennai, TamilNadu
-- Talks about: Women in FOSS, Big Data, ELK Stack, Python
+- Talks about: Software Testing, ETL/DW/BI Testing, Big Data, ELK Stack, Python, Linux, Selenium, html, CSS, Javascript, MySQL, Women in FOSS
 - Social: 
   - https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos
   - http://freetamilebooks.com/authors/nithyaduraisamy/
