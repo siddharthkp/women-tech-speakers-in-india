@@ -228,11 +228,10 @@ Sorted alphabetically by name:
 - Location: Chennai, TamilNadu
 - Talks about: Entrepreneurship, Technology for business enhancement, Web Development, Blockchain, Cloud computing
 - Social: 
-https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos
-http://freetamilebooks.com/authors/nithyaduraisamy/
-https://github.com/nithyadurai87/tamil-sandhi-checker
-https://www.facebook.com/nithya.duraisamy.7
-https://nithyashrinivasan.wordpress.com/
+  - https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos
+  - http://freetamilebooks.com/authors/nithyaduraisamy/
+  - https://www.facebook.com/nithya.duraisamy.7
+  - https://nithyashrinivasan.wordpress.com/
 - Consent given to contact: ✅ 
 - Contact: nithyadurai87@gmail.com
 - Preferred contact method: Email
