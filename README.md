@@ -226,7 +226,7 @@ Sorted alphabetically by name:
 
 ### Nithya Duraisamy
 - Location: Chennai, TamilNadu
-- Talks about: Entrepreneurship, Technology for business enhancement, Web Development, Blockchain, Cloud computing
+- Talks about: Women in FOSS, Big Data, ELK Stack, Python
 - Social: 
   - https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos
   - http://freetamilebooks.com/authors/nithyaduraisamy/
