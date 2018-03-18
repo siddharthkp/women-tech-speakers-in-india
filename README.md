@@ -217,5 +217,10 @@ Sorted alphabetically by name:
 - Consent given to contact: white_check_mark
 - Preferred contact method: twitter DM
 
-
-
+### Geethu Sivakumar
+- Location: Trivandrum, Kerala
+- Talks about: Entrepreneurship, Technology for business enhancement, Web Development, Blockchain, Cloud computing
+- Social: http://facebook.com/geethusivakumar
+- Consent given to contact: ✅ 
+- Contact: ge.geethuss@gmail.com
+- Preferred contact method: Email
