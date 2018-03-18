@@ -34,7 +34,6 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
-
 ### Ankita Goyal
 
 - Location: Hyderabad
@@ -223,4 +222,16 @@ Sorted alphabetically by name:
 - Social: http://facebook.com/geethusivakumar
 - Consent given to contact: ✅ 
 - Contact: ge.geethuss@gmail.com
+- Preferred contact method: Email
+
+### Nithya Duraisamy
+- Location: Chennai, TamilNadu
+- Talks about: Software Testing, ETL/DW/BI Testing, Big Data, ELK Stack, Python, Linux, Selenium, html, CSS, Javascript, MySQL, Women in FOSS
+- Social: 
+  - https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos
+  - http://freetamilebooks.com/authors/nithyaduraisamy/
+  - https://www.facebook.com/nithya.duraisamy.7
+  - https://nithyashrinivasan.wordpress.com/
+- Consent given to contact: ✅ 
+- Contact: nithyadurai87@gmail.com
 - Preferred contact method: Email
