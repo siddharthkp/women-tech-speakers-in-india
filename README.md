@@ -18,10 +18,22 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Akansha Jain
+
+- Location: Currently Kochi, Lives in New Delhi.
+- Talks about: Data Anaytics, Machine Learning, NLP, Twitter API, Basic Career Counselling in Technology
+- Social: 
+      -[twitter](https://twitter.com/akanshajainn)
+      -[linkedin](https://www.linkedin.com/in/akanshajainn/)
+      -[medium](https://medium.com/@jainakansha)
+      -[wordpress](https://unutteredthoughtsblog.wordpress.com)
+- Consent given to contact: ✅ 
+- Preferred contact method: LinkedIn DM, Twitter DM
+
 ### Akanksha Sharma
 
 - Location: Mumbai
-- Talks about: iOS, Swift, AI, Mahchine Learning
+- Talks about: iOS, Swift, AI, Machine Learning
 - Social: [twitter](https://twitter.com/akanksharmaa)
 - Consent given to contact: ✅ 
 - Preferred contact method: twitter DM
