@@ -46,6 +46,13 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Anjana Krishnan
+- Location: Kochi
+- Talks about: Ruby, Rails
+- Social: https://twitter.com/anjanakris123 
+- Consent given to contact: white_check_mark
+- Preferred contact method: twitter DM
+
 ### Ankita Goyal
 
 - Location: Hyderabad
@@ -69,7 +76,6 @@ Sorted alphabetically by name:
 - Social: [linkedin](https://in.linkedin.com/in/deepa-naik) [twitter](https://twitter.com/@dynaik)
 - Consent given to contact: ✅
 - Preferred contact method: Linkedin / Twitter DM
-
 
 ### Dipti Gandhi
 
@@ -103,6 +109,16 @@ Sorted alphabetically by name:
 - Social: [twitter](https://twitter.com/ragdroid)
 - Consent given to contact: ✅
 - Preferred contact method: Twitter DM
+
+### Geethu Sivakumar
+
+- Location: Trivandrum, Kerala
+- Talks about: Entrepreneurship, Technology for business enhancement, Web Development, Blockchain, Cloud computing
+- Social: http://facebook.com/geethusivakumar
+- Consent given to contact: ✅ 
+- Contact: ge.geethuss@gmail.com
+- Preferred contact method: Email
+
 
 ### Kritika Maheshwari
 
@@ -153,6 +169,20 @@ Sorted alphabetically by name:
 - Social: [twitter](https://twitter.com/niishtha1)
 - Consent given to contact: ✅
 - Preferred contact method: Email (niishtha@gmail.com) / [twitter](https://twitter.com/niishtha1)
+
+
+### Nithya Duraisamy
+
+- Location: Chennai, TamilNadu
+- Talks about: Software Testing, ETL/DW/BI Testing, Big Data, ELK Stack, Python, Linux, Selenium, html, CSS, Javascript, MySQL, Women in FOSS
+- Social: 
+  - https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos
+  - http://freetamilebooks.com/authors/nithyaduraisamy/
+  - https://www.facebook.com/nithya.duraisamy.7
+  - https://nithyashrinivasan.wordpress.com/
+- Consent given to contact: ✅ 
+- Contact: nithyadurai87@gmail.com
+- Preferred contact method: Email
 
 ### Pragya Jha
 
@@ -220,30 +250,3 @@ Sorted alphabetically by name:
 - Social: [twitter](https://twitter.com/saha_varsha)
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
-
-### Anjana Krishnan
-- Location: Kochi
-- Talks about: Ruby, Rails
-- Social: https://twitter.com/anjanakris123 
-- Consent given to contact: white_check_mark
-- Preferred contact method: twitter DM
-
-### Geethu Sivakumar
-- Location: Trivandrum, Kerala
-- Talks about: Entrepreneurship, Technology for business enhancement, Web Development, Blockchain, Cloud computing
-- Social: http://facebook.com/geethusivakumar
-- Consent given to contact: ✅ 
-- Contact: ge.geethuss@gmail.com
-- Preferred contact method: Email
-
-### Nithya Duraisamy
-- Location: Chennai, TamilNadu
-- Talks about: Software Testing, ETL/DW/BI Testing, Big Data, ELK Stack, Python, Linux, Selenium, html, CSS, Javascript, MySQL, Women in FOSS
-- Social: 
-  - https://www.youtube.com/channel/UCXsisJBABS2n2rQjR_rbJEg/videos
-  - http://freetamilebooks.com/authors/nithyaduraisamy/
-  - https://www.facebook.com/nithya.duraisamy.7
-  - https://nithyashrinivasan.wordpress.com/
-- Consent given to contact: ✅ 
-- Contact: nithyadurai87@gmail.com
-- Preferred contact method: Email
