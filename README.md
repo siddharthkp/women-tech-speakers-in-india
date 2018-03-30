@@ -243,6 +243,15 @@ Sorted alphabetically by name:
 - Consent given to contact: white_check_mark
 - Preferred contact method: twitter DM
 
+### Vaishali Thakkar
+
+- Location: Bangalore / Remote
+- Talks about: Linux Kernel | Embedded Linux | Compilers and static analysis tools | System Programming | Open source career | Diversity in open source
+- Social: [Website](http://vaishalithakkar.in/) , [Twitter](https://twitter.com/kernel_girl)
+- Consent given to contact: white_check_mark
+- Preferred contact method: Email, Twitter DM
+- Misc: Freelance Linux Kernel Hacker, Co-organizer Rails Girls Summer Of Code, Co-coordinator Outreachy(Linux Kernel), [Speaking engagements](http://vaishalithakkar.in/talks)
+
 ### Varsha Saha
 
 - Location: Bangalore
