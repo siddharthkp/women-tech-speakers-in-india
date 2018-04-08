@@ -119,6 +119,12 @@ Sorted alphabetically by name:
 - Contact: ge.geethuss@gmail.com
 - Preferred contact method: Email
 
+### Kirthi Jayakumar
+- Location: Chennai
+- Talks about: Teaching oneself to code from scratch with absolutely zero coding knowledge, Building ChatBots
+- Social: [twitter](https://twitter.com/kirthijayakumar) [instagram](https://instagram.com/kirthipotamus)
+- Consent given to contact: ✅
+- Preferred contact method: twitter
 
 ### Kritika Maheshwari
 
