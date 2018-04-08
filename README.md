@@ -134,6 +134,13 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Kuppulakshmi Krishnamoorthy 
+- Location: Chennai
+- Talks about: Startups and Technology adoption; Leadership and Startups; Emotional Intelligence -- as important as AI; Data and Digital Transformation; Softskills -- as important as Tech skills
+Social: [Twitter](@kuppulakshmi), [LinkedIn](http://in.linkedin.com/in/KuppuKrish)
+- Consent given to contact: ✅
+- Preferred mode of contact: Email at kuppulakshmi.k(at)zohocorp(dot)com
+
 ### Leena S N
 
 - Location: Bengaluru, India
