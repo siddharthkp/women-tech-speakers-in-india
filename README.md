@@ -123,7 +123,7 @@ Sorted alphabetically by name:
 
 - Location: Kochi, Kerala
 - Talks about: Free and Open Source Software, JavaScript, Early stage career, Web Development
-- Social: [twitter](https://twitter.com/KeerthanaK17)
+- Social: [twitter](https://twitter.com/KeerthanaK17) [github](https://github.com/Keerthana17)
 - Consent given to contact: ✅ 
 - Contact: contactkeerthana@gmail.com
 - Preferred contact method: Email
