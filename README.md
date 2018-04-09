@@ -119,6 +119,15 @@ Sorted alphabetically by name:
 - Contact: ge.geethuss@gmail.com
 - Preferred contact method: Email
 
+### Keerthana Krishnan
+
+- Location: Kochi, Kerala
+- Talks about: Free and Open Source Software, JavaScript, Early stage career, Web Development
+- Social: [twitter](https://twitter.com/KeerthanaK17)
+- Consent given to contact: ✅ 
+- Contact: contactkeerthana@gmail.com
+- Preferred contact method: Email
+
 ### Kirthi Jayakumar
 - Location: Chennai
 - Talks about: Teaching oneself to code from scratch with absolutely zero coding knowledge, Building ChatBots
