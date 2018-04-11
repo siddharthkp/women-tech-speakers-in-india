@@ -69,6 +69,15 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: �
 
+### Bhavani Ravi
+
+- Location: Chennai
+- Talks about: Python, Django, Chatbots, WomenInTech
+- Social: [twitter](https://twitter.com/geeky_bhavani) 
+- Website [bhavaniravi.com](http://bhavaniravi.com)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM
+
 ### Deepa Naik
 
 - Location: Mumbai
