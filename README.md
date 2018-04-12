@@ -215,6 +215,15 @@ Social: [Twitter](@kuppulakshmi), [LinkedIn](http://in.linkedin.com/in/KuppuKris
 - Contact: nithyadurai87@gmail.com
 - Preferred contact method: Email
 
+
+### Pooja Shah
+
+- Location: Bangalore, Karnataka
+- Talks about: Automation, Bots, Testing, Growth, Health and Life
+- Social: [twitter](https://twitter.com/TechGirlPooja) | [medium](https://medium.com/@TechGirlPooja/) | [youtube](https://www.youtube.com/c/PoojaShahQAgirl) | [books](https://legacy.gitbook.com/@p00j4/dashboard)
+- Consent given to contact: ✅ 
+- Preferred contact method: [web-page](https://p00j4.github.io/#contact)
+
 ### Pragya Jha
 
 - Location: Bangalore
