@@ -257,5 +257,5 @@ Sorted alphabetically by name:
 - Location: Bangalore
 - Talks about: React, Redux, CSS, SCSS
 - Social: [twitter](https://twitter.com/Varsha142607)
-- Consent given to contact: 🔜
+- Consent given to contact: ✅
 - Preferred contact method: 🔜
