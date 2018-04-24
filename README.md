@@ -257,6 +257,17 @@ Social: [Twitter](@kuppulakshmi), [LinkedIn](http://in.linkedin.com/in/KuppuKris
 - Consent given to contact: ✅
 - Preferred contact method: Twitter DM
 
+### Shilpa Garg
+
+- Location: New Delhi
+- Talks about: Dialogflow, LUIS, Amazon Lex, IBM Watson/Bluemix, Python, Machine Learning Basics
+- Social: 
+    - https://in.linkedin.com/in/shilpa-garg-90618568
+    - https://twitter.com/shilpa1994?lang=en
+    - https://www.facebook.com/sggoyal1994
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM,LinkedIn DM
+
 ### Srushtika Neelakantam
 
 - Location: Bangalore/Berlin
