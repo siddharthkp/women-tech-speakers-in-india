@@ -310,3 +310,12 @@ Social: [Twitter](@kuppulakshmi), [LinkedIn](http://in.linkedin.com/in/KuppuKris
 - Social: [twitter](https://twitter.com/saha_varsha)
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
+
+
+### Varsha Bhagat
+
+- Location: Bangalore
+- Talks about: React, Redux, CSS, SCSS
+- Social: [twitter](https://twitter.com/Varsha142607)
+- Consent given to contact: ✅
+- Preferred contact method: 🔜
