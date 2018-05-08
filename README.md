@@ -270,7 +270,7 @@ Social: [Twitter](@kuppulakshmi), [LinkedIn](http://in.linkedin.com/in/KuppuKris
 
 ### Srushtika Neelakantam
 
-- Location: Bangalore/Berlin
+- Location: Bangalore/London
 - Talks about: WebVR, AFrameVr, Realtime Web, TypeScript
 - Social: [twitter](https://twitter.com/Srushtika)|[youtube](https://www.youtube.com/playlist?list=PLZWI9MjJG-V_Y52VWLPZE1KtUTykyGTpJ)|[slides](https://speakerdeck.com/srushtika)|[medium](https://medium.com/@n.srushtika)
 - Consent given to contact: ✅
