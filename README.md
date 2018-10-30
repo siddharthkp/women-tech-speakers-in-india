@@ -319,3 +319,12 @@ Social: [Twitter](@kuppulakshmi), [LinkedIn](http://in.linkedin.com/in/KuppuKris
 - Social: [twitter](https://twitter.com/Varsha142607)
 - Consent given to contact: ✅
 - Preferred contact method: 🔜
+
+
+### Apoorva Tiwari
+
+- Location: Hyderabad
+- Talks about: Android, Google Technologies, Women in Tech, Community
+- Social: [twitter](https://twitter.com/apoorva_tiw), [LinkedIn](https://www.linkedin.com/in/apoorvatiw/)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM, LinkedIn DM
