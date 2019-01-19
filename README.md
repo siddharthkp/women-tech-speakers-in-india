@@ -328,3 +328,12 @@ Social: [Twitter](@kuppulakshmi), [LinkedIn](http://in.linkedin.com/in/KuppuKris
 - Social: [twitter](https://twitter.com/apoorva_tiw), [LinkedIn](https://www.linkedin.com/in/apoorvatiw/)
 - Consent given to contact: ✅
 - Preferred contact method: Twitter DM, LinkedIn DM
+
+### Geetika Batra
+
+- Location: Faridabad
+- Talks about: Openstack
+- Social: [twitter](https://twitter.com/GeetikaBatra), [LinkedIn](https://www.linkedin.com/in/geetika-batra-49522396/)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM, LinkedIn DM
+
