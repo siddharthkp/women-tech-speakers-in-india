@@ -167,6 +167,14 @@ Social: [Twitter](@kuppulakshmi), [LinkedIn](http://in.linkedin.com/in/KuppuKris
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Mala Gupta
+
+- Location: Delhi - NCR
+Talks about: Java, Latest developments in Java, Java Certifications, Design Patterns and Principles, Code Refactoring, Clean Code, Women In Tech
+- Social: [Twitter](https://twitter.com/eMalaGupta) [LinkedIn](https://www.linkedin.com/in/malagupta/)
+- Consent given to contact: ✅
+- Preferred contact method: 
+
 ### Mamata Gelanee
 
 - Location: Gujarat
