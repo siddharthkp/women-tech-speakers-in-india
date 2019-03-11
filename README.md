@@ -173,7 +173,7 @@ Social: [Twitter](@kuppulakshmi), [LinkedIn](http://in.linkedin.com/in/KuppuKris
 Talks about: Java, Latest developments in Java, Java Certifications, Design Patterns and Principles, Code Refactoring, Clean Code, Women In Tech
 - Social: [Twitter](https://twitter.com/eMalaGupta) [LinkedIn](https://www.linkedin.com/in/malagupta/)
 - Consent given to contact: ✅
-- Preferred contact method: 
+- Preferred contact method: twitter
 
 ### Mamata Gelanee
 
