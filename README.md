@@ -141,6 +141,6 @@ Sorted alphabetically by name:
 - Talks about: React Native, Android, Google Technologies
 - Social: [twitter](https://twitter.com/soniaditi380) [Github](https://github.com/aditisoni8899/) [LinkedIn](https://www.linkedin.com/in/aditi-soni/)
 - Consent given to contact: 🔜
-- Preferred contact method: 🔜
+- Preferred contact method:  Email (soniaditi380@gmail.com)
 
 
