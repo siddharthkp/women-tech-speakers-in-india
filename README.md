@@ -135,4 +135,12 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Aditi Soni
+
+- Location: Pune
+- Talks about: React Native, Android, Google Technologies
+- Social: [twitter](https://twitter.com/soniaditi380) [Github](https://github.com/aditisoni8899/) [LinkedIn](https://www.linkedin.com/in/aditi-soni/)
+- Consent given to contact: 🔜
+- Preferred contact method: 🔜
+
 
