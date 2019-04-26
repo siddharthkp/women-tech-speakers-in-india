@@ -223,6 +223,14 @@ Talks about: Java, Latest developments in Java, Java Certifications, Design Patt
 - Contact: nithyadurai87@gmail.com
 - Preferred contact method: Email
 
+### Pooja Bhaumik
+
+- Location: Bangalore, Karnataka
+- Talks about: Flutter, Android, Design, Women in Tech, Community
+- Social: [twitter](https://twitter.com/pblead26) | [medium](https://medium.com/@poojabhaumik/) | [linkedin](https://www.linkedin.com/in/poojab26/)
+- Consent given to contact: ✅ 
+- Preferred contact method: email me at pbhaumik26@gmail.com
+
 
 ### Pooja Shah
 
