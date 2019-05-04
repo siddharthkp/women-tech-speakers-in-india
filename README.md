@@ -76,7 +76,7 @@ Sorted alphabetically by name:
 - Location: Chennai, Delhi
 - Talks about: Python, Machine Learning, Deep Learning, Women in Tech, Automation and Building Bots(for reddit, slack etc.)
 - Social: [twitter](https://twitter.com/archanaiyer1996) | [linkedin](https://www.linkedin.com/in/archana-iyer/) | [github](https://github.com/ArchanaIyer1996) | [email](mailto:varchanaiyer139@gmail.com)
-- Consent given to contact: white_check_mark
+- Consent given to contact: Yes 
 - Preferred contact method: email, linkedin, twitter dm
 
 
