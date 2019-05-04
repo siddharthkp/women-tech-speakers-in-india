@@ -6,7 +6,7 @@ Conference (and meetup) organisers complain of not having enough women speakers 
 
 Please add yourself and your peers! Make sure you take their consent before adding their preferred contact method.
 
-If someone else added you to the list, please update your topics, consent and prefered method of contact. If you'd like to be removed, please let me know! ([github](https://github.com/siddharthkp/women-tech-speakers-in-india/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) / [twitter](https://twitter.com/siddharthkp))
+If someone else added you to the list, please update your topics, consent and preferred method of contact. If you'd like to be removed, please let me know! ([github](https://github.com/siddharthkp/women-tech-speakers-in-india/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc) / [twitter](https://twitter.com/siddharthkp))
 
 Sorted alphabetically by name:
 
