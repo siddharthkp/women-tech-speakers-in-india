@@ -71,6 +71,15 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Archana Iyer
+
+- Location: Chennai, Delhi
+- Talks about: Python, Machine Learning, Deep Learning, Women in Tech, Automation and Building Bots(for reddit, slack etc.)
+- Social: [twitter](https://twitter.com/archanaiyer1996) | [linkedin](https://www.linkedin.com/in/archana-iyer/) | [github](https://github.com/ArchanaIyer1996) | [email](mailto:varchanaiyer139@gmail.com)
+- Consent given to contact: white_check_mark
+- Preferred contact method: email, linkedin, twitter dm
+
+
 ### Arwa Lokhandwala
 
 - Location: Mumbai
