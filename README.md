@@ -18,6 +18,16 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Aiswarya Ramachandran
+- Location: Bangalore
+- Talks about: ML and AI
+- Social: 
+      -[linkedin](https://www.linkedin.com/in/aiswarya-ramachandran/)
+      -[medium](https://medium.com/@aiswaryar)       
+- Consent given to contact: ✅ 
+- Preferred contact method: LinkedIn DM
+
+
 ### Akansha Jain
 
 - Location: Currently Kochi, Lives in New Delhi.
