@@ -105,6 +105,17 @@ Sorted alphabetically by name:
 - Consent given to contact: ✅
 - Preferred contact method: Linkedin / Twitter DM
 
+### Deya Chatterjee
+
+- Location: Chennai/Kolkata/Pune/Bangalore
+- Talks about: Machine Learning, Deep Learning, Python, Data Science, AI, WomenInTech
+- Social: [LinkedIn](https://www.linkedin.com/in/deya/), [GitHub](https://github.com/deyachatterjee)
+- [Website](http://deyachatterjee.github.io)
+- Consent given to contact: ✅
+- Preferred contact method: [Email](mailto:deyachatterjee2110@gmail.com) or LinkedIn DM
+- Misc.: Organizer, WiMLDS Chennai chapter
+
+
 ### Dipti Gandhi
 
 - Location: Mumbai
