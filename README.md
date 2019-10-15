@@ -391,3 +391,10 @@ Talks about: Java, Latest developments in Java, Java Certifications, Design Patt
 - Consent given to contact: ✅
 - Preferred contact method: Twitter DM, LinkedIn DM
 
+### Vinita Miranda
+
+- Location: Mumbai
+- Talks about: iOS, Swift, Python, Google Technologies
+- Social: [twitter](https://twitter.com/vinitavins2007) [LinkedIn](https://www.linkedin.com/in/vinita-miranda-3874a824/)
+- Consent given to contact: ✅
+- Preferred contact method: Twitter DM, LinkedIn DM, Email (vinita.vins2007@gmail.com)
