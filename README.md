@@ -30,7 +30,7 @@ Sorted alphabetically by name:
 
 ### Akansha Jain
 
-- Location: Currently Kochi, Lives in New Delhi.
+- Location: New Delhi
 - Talks about: Data Science, Deep/Machine Learning, NLP, Twitter API(tweepy).
 - Social: 
       -[twitter](https://twitter.com/akanshajainn)
