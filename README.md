@@ -10,6 +10,14 @@ If someone else added you to the list, please update your topics, consent and pr
 
 Sorted alphabetically by name:
 
+### Aarshiya Guneja
+
+- Location: Jaipur
+- Talks about: GO, APIs, Django, Communities, Women in Tech
+- Social: [twitter](https://twitter.com/aarshiyaguneja) | [linkedin](https://www.linkedin.com/in/aarshiyaguneja/) | [github](https://github.com/AarshiyaGuneja)
+- Consent given to contact: ✅ 
+- Preferred contact method: Twitter DM | [Email](mailto:aarshiyaguneja@gmail.com)
+
 ### Adisha Porwal
 
 - Location: Bangalore
