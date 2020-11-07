@@ -190,6 +190,14 @@ Sorted alphabetically by name:
 - Consent given to contact: 🔜
 - Preferred contact method: 🔜
 
+### Kriti Doneria
+
+- Location: Gurugram
+- Talks about: Machine Learning, Artificial intelligence, XAI,Ethics in AI,Data science use cases.
+- Social: [Linkedin](https://www.linkedin.com/in/kritidoneria/)
+- Contact: doneriakriti@gmail.com
+- Preferred contact method: Email
+
 ### Kuppulakshmi Krishnamoorthy 
 - Location: Chennai
 - Talks about: Startups and Technology adoption; Leadership and Startups; Emotional Intelligence -- as important as AI; Data and Digital Transformation; Softskills -- as important as Tech skills
