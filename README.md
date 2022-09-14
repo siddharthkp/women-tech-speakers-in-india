@@ -99,7 +99,7 @@ Sorted alphabetically by name:
 ### Bhavani Ravi
 
 - Location: Chennai
-- Talks about: Python, Django, Chatbots, WomenInTech
+- Talks about: Python, Backend, Software & Data Engineering, Devops, Docker/Kubernetes, Teaching Tech, Building Side Projects
 - Social: 
   - [twitter](https://twitter.com/bhavaniravi_) 
   - [Linkedin](https://linkedin.com/bhavanicodes) 
