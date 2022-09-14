@@ -100,10 +100,13 @@ Sorted alphabetically by name:
 
 - Location: Chennai
 - Talks about: Python, Django, Chatbots, WomenInTech
-- Social: [twitter](https://twitter.com/geeky_bhavani) 
+- Social: 
+  - [twitter](https://twitter.com/bhavaniravi_) 
+  - [Linkedin](https://linkedin.com/bhavanicodes) 
+  - [Email](info@bhavaniravi.com)
 - Website [bhavaniravi.com](http://bhavaniravi.com)
 - Consent given to contact: ✅
-- Preferred contact method: Twitter DM
+- Preferred contact method: Linkedin/Twitter DM/Email
 
 ### Deepa Naik
 
