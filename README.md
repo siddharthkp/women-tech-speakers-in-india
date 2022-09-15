@@ -99,11 +99,14 @@ Sorted alphabetically by name:
 ### Bhavani Ravi
 
 - Location: Chennai
-- Talks about: Python, Django, Chatbots, WomenInTech
-- Social: [twitter](https://twitter.com/geeky_bhavani) 
+- Talks about: Python, Backend, Software & Data Engineering, Devops, Docker/Kubernetes, Teaching Tech, Building Side Projects
+- Social: 
+  - [twitter](https://twitter.com/bhavaniravi_) 
+  - [Linkedin](https://linkedin.com/bhavanicodes) 
+  - [Email](info@bhavaniravi.com)
 - Website [bhavaniravi.com](http://bhavaniravi.com)
 - Consent given to contact: ✅
-- Preferred contact method: Twitter DM
+- Preferred contact method: Linkedin/Twitter DM/Email
 
 ### Deepa Naik
 
