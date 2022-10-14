@@ -68,7 +68,7 @@ Sorted alphabetically by name:
 - Location: Kochi
 - Talks about: Ruby, Rails
 - Social: https://twitter.com/anjanakris123 
-- Consent given to contact: white_check_mark
+- Consent given to contact: ✅ 
 - Preferred contact method: twitter DM
 
 ### Ankita Goyal
@@ -356,7 +356,7 @@ Talks about: Java, Latest developments in Java, Java Certifications, Design Patt
 - Location: Mumbai
 - Talks about: Android
 - Social: https://twitter.com/tejshree_yeole
-- Consent given to contact: white_check_mark
+- Consent given to contact: ✅ 
 - Preferred contact method: twitter DM
 
 ### Vaishali Thakkar
@@ -364,7 +364,7 @@ Talks about: Java, Latest developments in Java, Java Certifications, Design Patt
 - Location: Bangalore / Remote
 - Talks about: Linux Kernel | Embedded Linux | Compilers and static analysis tools | System Programming | Open source career | Diversity in open source
 - Social: [Website](http://vaishalithakkar.in/) , [Twitter](https://twitter.com/kernel_girl)
-- Consent given to contact: white_check_mark
+- Consent given to contact: ✅
 - Preferred contact method: Email, Twitter DM
 - Misc: Freelance Linux Kernel Hacker, Co-organizer Rails Girls Summer Of Code, Co-coordinator Outreachy(Linux Kernel), [Speaking engagements](http://vaishalithakkar.in/talks)
 
