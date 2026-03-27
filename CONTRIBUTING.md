@@ -1,10 +1,10 @@
 Add these details:
 
-Location: __Gurugram________ (Example: Bangalore)
+Location: __Gurugram_(Example: Bangalore)
 
 Talks about: Cloud computing, finops,AI datacenters,Devops, AI in cloud, Hyperscalers (Example: Javascript, React, Data visualisation, etc.)
 
-Social: __Linkedin____, ______, ______ (Example: link to twitter, medium, linkedin, etc)
+Social: www.linkedin.com/in/nehaaswal8112022 (Example: link to twitter, medium, linkedin, etc)
 
 Consent given to contact: ✅ or 🚫(Is it okay for conference organisers to contact directly)
 
